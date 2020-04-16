@@ -1,0 +1,1 @@
+# capacitor-photo-edit-plugin
